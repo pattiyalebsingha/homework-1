@@ -1,0 +1,66 @@
+ .body1 {
+     background-color: #e0f17dd7;
+     background-image: url(img/abstract-geometric-triangle-background-wallpaper-preview.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover;
+ }
+
+ th,
+ td {
+     border: 1px solid black;
+     padding: 8px;
+ }
+
+ .table-b {
+     border-collapse: collapse;
+ }
+
+ .table-a {
+     border-collapse: collapse;
+ }
+
+ .body2 {
+     background-color: #79e687ec;
+     background-image: url(img/yellow-abstract-geometric-triangle-background-wallpaper-preview.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover;
+ }
+
+ .body3 {
+     background-color: #7adcefec;
+     background-image: url(img/green-abstract-geometric-triangle-background-wallpaper-preview.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover;
+ }
+
+ .body4 {
+     background-color: #7893ec;
+     background-image: url(img/abstract-geometric-triangle-background-blue-wallpaper-preview.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover;
+ }
+ input[type="text"]{
+    width: 500Px;
+    margin-bottom: 20px;
+ }
+ select{
+    width: 508px;
+    margin-bottom: 20px;
+ }
+ textarea{
+    width: 502px;
+    height: 300px;
+    margin-bottom: 20px;
+ }
+ fieldset{
+    width: 600px;
+    border-radius: 10px;
+ }
